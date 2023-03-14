@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\WebCamApp\obj\Debug\WebCamApp.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\WebCamApp\obj\Debug\WebCamApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\WebCamApp\obj\Debug\WebCamApp.Form1.resources
+C:\Users\PC\source\repos\WebCamApp\obj\Debug\WebCamApp.Properties.Resources.resources
+C:\Users\PC\source\repos\WebCamApp\obj\Debug\WebCamApp.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\WebCamApp\obj\Debug\WebCamApp.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WebCamApp\bin\Debug\WebCamApp.exe.config
+C:\Users\PC\source\repos\WebCamApp\bin\Debug\WebCamApp.exe
+C:\Users\PC\source\repos\WebCamApp\bin\Debug\WebCamApp.pdb
+C:\Users\PC\source\repos\WebCamApp\bin\Debug\WebCam_Capture.dll
+C:\Users\PC\source\repos\WebCamApp\obj\Debug\WebCamApp.csproj.CopyComplete
+C:\Users\PC\source\repos\WebCamApp\obj\Debug\WebCamApp.exe
+C:\Users\PC\source\repos\WebCamApp\obj\Debug\WebCamApp.pdb
